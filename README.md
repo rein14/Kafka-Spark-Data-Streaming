@@ -2,7 +2,7 @@
 
 ## What is it?
 
-This is a simple application depicting event collaboration with Kafka using the lifecycle of an order.
+This is a simple application depicting event collaboration with Kafka and spark using the lifecycle of an order.
 
 ## Why this?
 
